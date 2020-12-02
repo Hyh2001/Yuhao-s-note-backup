@@ -1,3 +1,5 @@
 book: 'linear algebra done wrong' 
 course: MIT linear algebra
 
+real vector space ---scalars are usual real numbers 
+complex vector space ---scalars are complex numbers 
