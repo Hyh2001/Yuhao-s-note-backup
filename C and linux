@@ -1,1 +1,15 @@
+c is platform independent ( what is platform?  
+                                architecture, operating system.
+                                 It's portable means that the program can be used through different compiler on different platform without
+                                changing the text or just change a little.) 
+                                
+
+execution through interpretation:
+             it executed each rolls without making them into one executable file.
+             
+Thinking:    The advantage and disadvantage between executing program through interpreter and compiler?(
+                       advantage of interpretation: 
+                            It is more protable, but less efficient
+                        )
+
 
