@@ -13,3 +13,8 @@ Thinking:    The advantage and disadvantage between executing program through in
                         )
 
 
+To compile a c file in linux:
+            gcc main.c(name of the text file)
+                -o main.o(name of the executable file) main.c(name of the text file) /to compile the file into given name executable file 
+                -Wall (show all the warning and false)
+
