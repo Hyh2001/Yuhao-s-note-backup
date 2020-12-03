@@ -1,0 +1,3 @@
+if I want to use math.h library:
+     include <math.h>
+   Then, when compiling: gcc -o test.o test.c -lm
