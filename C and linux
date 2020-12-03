@@ -17,4 +17,29 @@ To compile a c file in linux:
             gcc main.c(name of the text file)
                 -o main.o(name of the executable file) main.c(name of the text file) /to compile the file into given name executable file 
                 -Wall (show all the warning and false)
+                
+                
+                
+escape character and format string: they are completed in different procedures of execution:
+       escape character is replaced after compiling
+       format string is replaced when executing
+       
+In printf, using printf("%%"); to print out a percent sign
 
+declaration and definition:
+       definition will cause the computer to distribute space for it, and declaration include both that have distributive space and not have.
+       
+ Identifier: they can only begin with letters or underscore and continued with letters, underscores and numbers
+      ( we need to prevent using indentifier begin with underscores)
+ 
+ reserved words:
+auto  break  case  char  const  continue  default  do  double
+else  enum  extern  float  for  goto  if  inline  int  long
+register  restrict  return  short  signed  sizeof  static  struct  switch  typedef
+union  unsigned  void  volatile  while  _Bool  _Complex  _Imaginary
+
+
+
+
+
+ 
