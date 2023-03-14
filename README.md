@@ -1,3 +1,2 @@
-# Learning-in-robotics-
-A self-learning progress blog to mark down what I have learned and what will be the next steps. 
-
+# Yuhao's notes page 
+This is a backup repository for Yuhao's notes written in markdown (Obsidian) 
