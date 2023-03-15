@@ -1,0 +1,5 @@
+Dear Prof. Xiong, 
+Here is Yuhao. After several days of reading, I think I have already got some ideas about the research on leg robot terrain classification. The rough literature review written by me has been appended in the appendix. I have also proposed some of my ideas about this project and I believe that they are interesting ideas. 
+After several days of thinking and practicing, I think I agree with your idea that a clear goal will benefit my research works. I believe that my long term interests and goals in your lab fall in the filed of bipedal locomotion in unstructured environments. The leg robot terrain classification problem will be a great entry point and if there will be more projects then terrain information based gaits and controllers design will be interesting for me. 
+Yours sincerely,
+                                                                                                                                                    Yuhao Huang

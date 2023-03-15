@@ -1,0 +1,5 @@
+Dear Prof. Xiong, 
+	Thank you for you recommendations and I am very happy to hear this news! Certainly I think I will need some materials to have some ideas about the robots especially to be more clear about their foot structures. Actually these days I am going deep into the tactile sensors based approaches and I think that the situation will be a little bit different between bipedal robots and quadruped robots and I will try to give a summarization a little bit later. We can then have an in-depth discussion. 
+	After reading your mail, I am also quite interested in the process of building the bipedal robots. What does design mean when building the robot? As I have learned from the lab website, we will have a digit robot soon. Will we have one more bipedal robot which is built by you?
+Yours sincerely,
+                                                                                                                                                             Yuhao Huang 

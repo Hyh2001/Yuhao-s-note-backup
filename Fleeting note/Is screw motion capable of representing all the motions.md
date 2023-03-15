@@ -1,0 +1,1 @@
+proof of [[Chasles-Mozzi theorem]] 

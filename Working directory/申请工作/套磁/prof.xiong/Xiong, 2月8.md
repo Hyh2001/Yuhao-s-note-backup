@@ -1,0 +1,17 @@
+Dear Prof. Xiong, thank you for your quick reply and certainly I will try to have a quick survey and also I have re-summarized my experience below more precisely. 
+  
+# Have you looked into any potential sensors that may be useful for legged robots, string gauge, pressure sensor and etc? How about a quick survey on sensors on legged robots, especially the ones on the foot?
+Certainly, I have once casually read 2 -3 papers during the Chinese new year dealing with the problem about foot design with sensing and it seems that the researchers have implemented different approaches like acoustic sensors, tactile sensors and pressure sensors and this problem seems to be an open problem. I will certainly have a quick survey on this problem and as I have finished it I will share with you. 
+# Do you mind to re-summarize your experiences on mechanical design, machining, sensor usage, and sensor fabrication?
+Considering mechanical design and machining, I have taken several courses based on these two topics. For courses talking about Solidworks and AutoCad, I used Solidworks to model a soymilk machine and the major goal of this project was to be precise. For another course talking about manufacturing technology, I manufactured some basic machine elements and during the manufacturing I had implemented methods like turning, drilling and milling using traditional lathes.  For the course talking about machine elements, I tried to design a new type of vise which can slip up and down and manufactured it. During the manufacturing process, I have tried oxygen welding and grinding. However, when manufacturing the vise based on our design, it occurred to me that many of the designs were unreasonable. It seemed to me that more knowledge were needed to design better products.  Also a course about basic mechanisms like four bar linkages is taught to familiar us with basic machines. 
+
+For sensor usage and fabrication, my major experiences lied on piezoelectric and piezoelectret sensors and actuators which were a little bit narrow. However, I think that for research on sensors, many of the techniques will be transferrable because actually different sensors are chasing for some similar features like a great accuracy, a good stability and a quick respond time etc. Methods like signal processing algorithms used to analyze the sensors are also quite the same.
+
+Therefore, In summary, I think that I am capable of working on basic modeling using Solidworks and manufacturing  the elements out but when it comes to mechanical design and analysis part, I still need to learn more. CNC lathe is also a point that I may need to learn. The basic knowledge about sensors will provide me with a quicker learning speed when heading to new sensors and their applications. I believe that with the help of a professor focusing on sensors design and fabrication, I will be capable of choosing an appropriate sensor and applying it to solve foot design problems.  Therefore, I think that as said in your previous mails, find a professor in UWM for help will be a good way. 
+
+# 提醒有关推荐录取的地方
+Yesterday I have gone through my application portal to have a final check and this mail sent to me in November has drawn my attention. I don't know why the office tells me this so I just paste it here to offer professor you a reference.
+![[Pasted image 20230209103059.png]]
+# 愿意做 TA
+Considering the TA possibility, a side work is great and 10-hours of work is quite a reasonable time that will not disturb my research works. Therefore, I think I am willing to be a TA. 
+

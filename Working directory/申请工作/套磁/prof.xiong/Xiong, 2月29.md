@@ -1,0 +1,8 @@
+Dear Prof. Xiong, 
+  After some of my readings, I want to update a little bit about my reading. I have tried to dive deeper into tactile sensors based approaches and I think that there are actually three subtypes of tactile sensors being used.
+  1. Force torque sensors 
+  2. capacitive sensors or pressure sensors (electronic skin like)
+  3. visual-tactile sensors 
+  The force torque sensors are mainly used by Prof. Macro Hutter and Prof. Krzysztof who are collaborators. Their approach is to directly put the sensor between foot and shank of the robot. Their testbeds are usually quadruped robots and hexapod robots. Good performances have been attained on both of them. However, considering bipedal robots, there is a joint between footpad and the shank. We need to further evaluate the influence of the joint if we want to apply this approach. One of the solutions to this approach from one paper is to mount the force torque sensor onto the ankles rather than the shank. 
+  The capacitive sensors are thin and soft, they will have less influence on the original mechanical structures. However, the problem is that there are not too many papers using this sensor and if so, their sensors will be self built ones. I will try to find more papers especially recent ones using the capacitive sensors. 
+  The visual-tactile sensors are quite new and based on my reading, its working principle is to mount a pressure camera above some soft materials and when the robots are walking, the soft materials will change its shape while the camera will capture the shape change and use the image as output. It is quite a new approach and few papers have paid attention to it. I will  try to search more. 

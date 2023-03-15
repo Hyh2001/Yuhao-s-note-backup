@@ -1,0 +1,4 @@
+Dear Prof. Xiong,
+	Thank for your quick reply and explanation. I think it is clear from your mail that the physical system will be vital to our research and it will make big influence on our outcomes. Then it is worthwhile for me to do careful works on it and build a good platform for my future research. Therefore, I think that professor you don’t need to worry too much about my hands-on expertise. Since they are such vital abilities, I will try my best to enhance them before and when we are working on our project. Based on my experience on learning other hands-on skills, with the progressing of projects and availability of multiple practicing scenarios, I will grasp the skills quickly.  
+Yours sincerely,
+		                                                                                                                                                             Yuhao Huang   
