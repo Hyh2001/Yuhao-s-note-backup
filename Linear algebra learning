@@ -1,6 +1,0 @@
-book: 'linear algebra done wrong' 
-course: MIT linear algebra
-
-real vector space ---scalars are usual real numbers 
-complex vector space ---scalars are complex numbers 
-(to distinguish this two spaces, we should see the scalar which multiplies the matrix is complex or real number) 
