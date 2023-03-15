@@ -1,0 +1,1 @@
+在 Abstract 中会说明这篇论文的主要贡献、方法特色和主要内容。([“硕士班研究所新生手册”, p. 8](zotero://select/library/items/LQMFGC39)) ([pdf](zotero://open-pdf/library/items/QTCEE5KU?page=8&annotation=XSQ8XRGA))

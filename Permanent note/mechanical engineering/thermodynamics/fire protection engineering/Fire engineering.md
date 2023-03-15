@@ -1,0 +1,1 @@
+The application of scientific and engineering principles, rules, and expert judgment, based on an understanding of the *phenomena and effects of fire* and of the *reaction and behavior of people to fire*, to protect people, property and the environment from the destructive effects of fire.

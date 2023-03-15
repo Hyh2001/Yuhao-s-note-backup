@@ -1,0 +1,1 @@
+Position vector is the [[vector]] used to represent the [[position]] of a point $A$ with respect to another point $O$. It is the vector pointed from $O$ to $A$.  ([“Vector mechanics for engineers. Statics and dynamics”, 2013, p. 83](zotero://select/library/items/88QX3VHX)) ([pdf](zotero://open-pdf/library/items/X8RTBG22?page=118&annotation=2IUHC9GG))

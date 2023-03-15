@@ -1,0 +1,1 @@
+A point $P$ on a curve $y = f(x)$ is called an *inflection point* if $f$ is continuous there and the curve changes from concave upward to concave downward or from concave downward to concave upward at $P$.

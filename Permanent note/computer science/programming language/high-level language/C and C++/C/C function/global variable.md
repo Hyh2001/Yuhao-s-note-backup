@@ -1,0 +1,22 @@
+全局变量定义在所有的函数体之外，它们在整个程序开始之前分配存储空间，在程序结束时释放存储空间，所有函数都可以通过全局变量名访问它们。
+# Initialization 
+全局变量只能用常量表达式初始化。
+
+原因：全局变量的初始值要求保存在编译生成的目标代码中，所以必须在编译时就能计算出来，所以不能用运行时才能知道的
+## 未初始化
+如果全局变量在定义时不初始化，则初始值是 0，整型的就是 0，字符型的就是'\0'，浮点型的就是 0.0。
+
+# [[scope]] 
+全局变量的作用域从定义的位置开始直到源文件结束
+
+# [[global variable - local variable]] 
+
+
+
+
+
+1. <span class="highlight" data-annotation="%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F9667514%2Fitems%2F4IHU78F5%22%2C%22pageLabel%22%3A%2257%22%2C%22position%22%3A%7B%22pageIndex%22%3A56%2C%22rects%22%3A%5B%5B356.506%2C219.6%2C548.506%2C234.36%5D%2C%5B46.006%2C205.452%2C538.006%2C219.36%5D%2C%5B46.006%2C190.452%2C142.006%2C204.36%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9667514%2Fitems%2FI2QD5IEX%22%5D%2C%22locator%22%3A%2257%22%7D%7D" ztype="zhighlight"><a href="zotero://open-pdf/library/items/4IHU78F5?page=57">“global variable”</a></span> <span class="citation" data-citation="%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9667514%2Fitems%2FI2QD5IEX%22%5D%7D%5D%2C%22properties%22%3A%7B%7D%7D" ztype="zcitation">(<span class="citation-item"><a href="zotero://select/library/items/I2QD5IEX">“LinuxC”</a></span>)</span>
+2. <span class="highlight" data-annotation="%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F9667514%2Fitems%2F4IHU78F5%22%2C%22pageLabel%22%3A%2258%22%2C%22position%22%3A%7B%22pageIndex%22%3A57%2C%22rects%22%3A%5B%5B477.994%2C114.6%2C537.994%2C129.36%5D%2C%5B45.994%2C100.452%2C165.994%2C114.36%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9667514%2Fitems%2FI2QD5IEX%22%5D%2C%22locator%22%3A%2258%22%7D%7D" ztype="zhighlight"><a href="zotero://open-pdf/library/items/4IHU78F5?page=58">“global variable initialization”</a></span> <span class="citation" data-citation="%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9667514%2Fitems%2FI2QD5IEX%22%5D%7D%5D%2C%22properties%22%3A%7B%7D%7D" ztype="zcitation">(<span class="citation-item"><a href="zotero://select/library/items/I2QD5IEX">“LinuxC”</a></span>)</span>
+3. <span class="highlight" data-annotation="%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F9667514%2Fitems%2F4IHU78F5%22%2C%22annotationKey%22%3A%22J2IUSRJI%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%2259%22%2C%22position%22%3A%7B%22pageIndex%22%3A58%2C%22rects%22%3A%5B%5B250%2C755.952%2C538%2C769.86%5D%2C%5B46%2C740.1%2C214%2C754.86%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9667514%2Fitems%2FI2QD5IEX%22%5D%2C%22locator%22%3A%2259%22%7D%7D" ztype="zhighlight"><a href="zotero://open-pdf/library/items/4IHU78F5?page=59&#x26;annotation=J2IUSRJI">“global variable initialization reason”</a></span> <span class="citation" data-citation="%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9667514%2Fitems%2FI2QD5IEX%22%5D%7D%5D%2C%22properties%22%3A%7B%7D%7D" ztype="zcitation">(<span class="citation-item"><a href="zotero://select/library/items/I2QD5IEX">“LinuxC”</a></span>)</span>
+4. <span class="highlight" data-annotation="%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F9667514%2Fitems%2F4IHU78F5%22%2C%22annotationKey%22%3A%229W6I2URZ%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%2259%22%2C%22position%22%3A%7B%22pageIndex%22%3A58%2C%22rects%22%3A%5B%5B46%2C595.35%2C292.672%2C610.11%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9667514%2Fitems%2FI2QD5IEX%22%5D%2C%22locator%22%3A%2259%22%7D%7D" ztype="zhighlight"><a href="zotero://open-pdf/library/items/4IHU78F5?page=59&#x26;annotation=9W6I2URZ">“global variable initialization 2”</a></span> <span class="citation" data-citation="%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9667514%2Fitems%2FI2QD5IEX%22%5D%7D%5D%2C%22properties%22%3A%7B%7D%7D" ztype="zcitation">(<span class="citation-item"><a href="zotero://select/library/items/I2QD5IEX">“LinuxC”</a></span>)</span>“
+5. scope ([“LinuxC”, p. 58](zotero://select/library/items/I2QD5IEX)) ([pdf](zotero://open-pdf/library/items/4IHU78F5?page=58&annotation=PZDAL2HG))

@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"66f4e2915311da47","x":-310,"y":-190,"width":250,"height":88,"type":"text","text":"# 生肉去腥\n葱姜 + 大料瓣儿，加水浸泡"},
+		{"id":"c8fbfb2012c1b4fb","x":-62,"y":-16,"width":250,"height":91,"type":"text","text":"# 拍蒜\n刀刃从前往后拉"}
+	],
+	"edges":[]
+}

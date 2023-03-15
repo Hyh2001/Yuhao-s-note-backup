@@ -1,0 +1,2 @@
+In the case of gravitation, the force that acts through the body’s center of gravity is called the weight of the body. ([Hibbeler, 2011, p. 5](zotero://select/library/items/XW832UJH)) ([pdf](zotero://open-pdf/library/items/5Q89FKQF?page=24&annotation=I6VK7DPA))
+![[Pasted image 20230221200030.png]]

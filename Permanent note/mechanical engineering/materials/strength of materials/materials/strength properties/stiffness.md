@@ -1,0 +1,1 @@
+It is the resistance to [[elastic]] deformation. ([pdf](zotero://open-pdf/library/items/ZTFTC588?page=8&annotation=TVIVAFQW)) If a material has a high stiffness, we say that it has a high [[Young's modulus]].  ([pdf](zotero://open-pdf/library/items/ZTFTC588?page=8&annotation=K3ATVY56))

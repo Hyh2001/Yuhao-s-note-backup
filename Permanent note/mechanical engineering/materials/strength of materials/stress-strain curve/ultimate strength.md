@@ -1,0 +1,1 @@
+It is the **maximum [[stress]]** that a material can withstand. 

@@ -1,0 +1,1 @@
+The connection between [[rotation matrix]] and [[rotation axis]] , [[angular coordinate]] is built by **[[Rodrigues formula]]**. Where actually, the [[skew-symmetric matrix]] form of rotation axis times the angular coordinate is the [[matrix logarithm]]. 

@@ -1,0 +1,2 @@
+As usual, the weight average molecular weight > number average molecular weight because that $M_w$ emphasizes the higher molecular weight chains so that the heavier molecules contributes more to the weight. 
+([“EMEN 3032 Special topics in Electromechanical Engineering III”, p. 9](zotero://select/library/items/3UBF9LWL)) ([pdf](zotero://open-pdf/library/items/IJLPFJ7H?page=9&annotation=F8ZRNP3A))

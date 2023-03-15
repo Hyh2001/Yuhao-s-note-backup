@@ -1,0 +1,5 @@
+In matrix multiplications, dot product can be implemented between a [[row vector]] and a [[column vector]]. This two vectors must have the same dimensions. $a^{row} \cdot b^{col} = a_1b_1 + a_2b_2 + a_3b_3 + ... + a_kb_k$
+<span class="highlight" data-annotation="%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F9667514%2Fitems%2F2AVWIQEV%22%2C%22pageLabel%22%3A%2252%22%2C%22position%22%3A%7B%22pageIndex%22%3A51%2C%22rects%22%3A%5B%5B115.224%2C380.043%2C288.14%2C390.65%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9667514%2Fitems%2F8EBIR37H%22%5D%2C%22locator%22%3A%2252%22%7D%7D" ztype="zhighlight"><a href="zotero://open-pdf/library/items/2AVWIQEV?page=52">“dot product - matrix multiplication”</a></span> <span class="citation" data-citation="%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9667514%2Fitems%2F8EBIR37H%22%5D%7D%5D%2C%22properties%22%3A%7B%7D%7D" ztype="zcitation">(<span class="citation-item"><a href="zotero://select/library/items/8EBIR37H">Grizzle</a></span>)</span> 
+
+
+

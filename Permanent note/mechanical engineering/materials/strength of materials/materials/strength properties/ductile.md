@@ -1,0 +1,1 @@
+It is a property of materials that they can undergo large deformations before [[fracture]]. ([pdf](zotero://open-pdf/library/items/ZTFTC588?page=8&annotation=TZYH4BCB))

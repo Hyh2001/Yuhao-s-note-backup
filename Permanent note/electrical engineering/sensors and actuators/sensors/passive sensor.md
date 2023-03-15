@@ -1,0 +1,1 @@
+Sensors that do not require any external power signal and directly generates output response. They measure ambient environmental energy entering the sensor. ([Siegwart 和 Nourbakhsh, 2004, p. 105](zotero://select/library/items/BEY6X32A)) ([pdf](zotero://open-pdf/library/items/RYZVTCUY?page=105&annotation=Y4NX5EE5))

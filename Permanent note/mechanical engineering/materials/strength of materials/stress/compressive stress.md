@@ -1,0 +1,1 @@
+It is the stress that pushes materials together. ([Hibbeler, 2011, p. 23](zotero://select/library/items/XW832UJH)) ([pdf](zotero://open-pdf/library/items/5Q89FKQF?page=42&annotation=8FDUA93L)) The equation is :: $\sigma = \frac{F}{A_{0}}$ 

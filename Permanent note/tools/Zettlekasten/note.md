@@ -1,0 +1,1 @@
+==I believe that note is a tool for us to deeper our understanding and review all we have learned== 

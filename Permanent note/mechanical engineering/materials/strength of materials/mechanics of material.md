@@ -1,0 +1,1 @@
+Mechanics of materials is a branch of mechanics that studies the internal effects of [[stress]] and [[strain]] in a solid body that is subjected to an [[external load]]. ([Hibbeler, 2011, p. 3](zotero://select/library/items/XW832UJH)) ([pdf](zotero://open-pdf/library/items/5Q89FKQF?page=22&annotation=9UAB5R7P))

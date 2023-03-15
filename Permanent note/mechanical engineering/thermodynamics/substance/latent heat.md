@@ -1,0 +1,1 @@
+The amount of energy absorbed or released during a [[phase]]-change process is called the latent heat. ([Çengel 和 Boles, 2015, p. 143](zotero://select/library/items/FCMSUVW2)) ([pdf](zotero://open-pdf/library/items/DFP6L6PZ?page=143&annotation=8DNFG3UR))

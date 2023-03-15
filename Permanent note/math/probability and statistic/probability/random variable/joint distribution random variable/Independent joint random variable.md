@@ -1,0 +1,3 @@
+# Independent joint random variable
+
+‍

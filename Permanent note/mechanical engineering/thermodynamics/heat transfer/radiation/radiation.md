@@ -1,0 +1,1 @@
+Radiation is the transport of energy by way of photon/electromagnetic wave from one surface to another ([pdf](zotero://open-pdf/library/items/BLQM2C86?page=18&annotation=R2DDCJG9))

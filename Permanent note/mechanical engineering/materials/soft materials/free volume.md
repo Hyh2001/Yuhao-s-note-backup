@@ -1,0 +1,1 @@
+Free volume in a polymer is defined as the volume of **total mass** that is not occupied by the polymer chains ([“EMEN 3032 Special topics in Electromechanical Engineering III Lecture 3”, p. 31](zotero://select/library/items/8J65FRWW)) ([pdf](zotero://open-pdf/library/items/8A7PQIJG?page=31&annotation=MW938E7I))

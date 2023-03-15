@@ -1,0 +1,1 @@
+The difference between variable and sample data is that social scientists measure variables and they get sample data.

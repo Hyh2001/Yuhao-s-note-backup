@@ -1,0 +1,1 @@
+A [[wrench]] with a zero linear component is called a pure moment. ([Lynch 和 Park, 2017, p. 127](zotero://select/library/items/CK6BYIEW)) ([pdf](zotero://open-pdf/library/items/97TQKNC2?page=127&annotation=8S8376MC))

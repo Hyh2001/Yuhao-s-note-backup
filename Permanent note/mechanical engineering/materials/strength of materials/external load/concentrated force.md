@@ -1,0 +1,2 @@
+If the contact area of a [[surface force]] is small in comparison with the total surface area of the body, then the surface force can be idealized as a single concentrated force, which is applied to a point on the body. ([Hibbeler, 2011, p. 4](zotero://select/library/items/XW832UJH)) ([pdf](zotero://open-pdf/library/items/5Q89FKQF?page=23&annotation=WWHY34NH))
+![[Pasted image 20230221195658.png]]

@@ -1,0 +1,2 @@
+It is a [[pseudoplastic fluid]] that takes a finite time to attain equilibrium viscosity when there is a change in shear rate ([pdf](zotero://open-pdf/library/items/JIWTJCSV?page=22&annotation=SPBY8CW5))
+![[Pasted image 20230220165711.png]]

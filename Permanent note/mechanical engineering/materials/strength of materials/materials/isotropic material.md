@@ -1,0 +1,1 @@
+Isotropic material has these same properties in all directions. ([Hibbeler, 2011, p. 24](zotero://select/library/items/XW832UJH)) ([pdf](zotero://open-pdf/library/items/5Q89FKQF?page=43&annotation=R7G8ENF5))

@@ -1,0 +1,2 @@
+![[Pasted image 20230309121446.png]]
+([“EMEN 3032 Special topics in Electromechanical Engineering III Lecture 3”, p. 7](zotero://select/library/items/8J65FRWW)) ([pdf](zotero://open-pdf/library/items/8A7PQIJG?page=7&annotation=DDUZR3VV))

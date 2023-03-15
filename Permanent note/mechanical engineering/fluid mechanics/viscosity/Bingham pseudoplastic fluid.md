@@ -1,0 +1,2 @@
+Bingham pseudoplastic fluid possesses a yield stress which must be exceeded before the fluid will flow and is a fluid whose viscosity decreases with an increase in shear rate. ([pdf](zotero://open-pdf/library/items/JIWTJCSV?page=17&annotation=2I2M5FMH)) (It is a combination of [[Bingham plastic fluid]] and [[pseudoplastic fluid]])
+![[Pasted image 20230220165126.png]]

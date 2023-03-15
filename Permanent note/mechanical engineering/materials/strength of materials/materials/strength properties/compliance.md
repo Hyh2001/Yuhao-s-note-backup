@@ -1,0 +1,1 @@
+It is the inverse of [[stiffness]].  ([pdf](zotero://open-pdf/library/items/ZTFTC588?page=8&annotation=Y7WR9L6I))

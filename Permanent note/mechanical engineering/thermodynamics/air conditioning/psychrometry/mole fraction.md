@@ -1,0 +1,2 @@
+It is the ratio of the **[[mole]] number** of a component to the mole number of the **mixture**.([Çengel 和 Boles, 2015, p. 715](zotero://select/library/items/FCMSUVW2)) ([pdf](zotero://open-pdf/library/items/DFP6L6PZ?page=715&annotation=CYGZTY6S))
+$y_{i}=\frac{N_i}{N_m}$  we can easily see that $\sum_{i=1}^{k}mf_{i}=1$ 

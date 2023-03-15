@@ -1,0 +1,1 @@
+The equation is $PV=RT$ where $P$ is the pressure $V$ is the volume and $R$ is .. $T$ is the temperature. ([Çengel 和 Boles, 2015, p. 717](zotero://select/library/items/FCMSUVW2)) ([pdf](zotero://open-pdf/library/items/DFP6L6PZ?page=717&annotation=VK9UMSCN))

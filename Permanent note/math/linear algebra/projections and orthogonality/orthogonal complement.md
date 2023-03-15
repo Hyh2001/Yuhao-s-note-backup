@@ -1,0 +1,1 @@
+An orthogonal complement to a [[subspace]] contains **all the vectors orthogonal to it**.

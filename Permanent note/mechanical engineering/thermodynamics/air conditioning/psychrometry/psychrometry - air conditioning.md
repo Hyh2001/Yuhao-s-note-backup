@@ -1,0 +1,1 @@
+In air conditioning process, it often involves the addition and removal of water content from the air. Therefore, to find related properties using “[[psychrometry chart]]” for evaluating the energy exchange during the process is very important.” ([pdf](zotero://open-pdf/library/items/X5QB2YK6?page=2&annotation=MMDXPCP7))

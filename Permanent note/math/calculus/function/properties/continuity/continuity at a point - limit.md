@@ -1,0 +1,1 @@
+We say that a function $f$ is [[continuity]] at $c$ when: $lim_{x\to c}f (x) =f(c)$ If $f$ is not continuous at $c$, we say $f$ is [[discontinuity]] at $c$. ([Lax 和 Terrell, 2014, p. 61](zotero://select/library/items/T6IUTL24)) ([pdf](zotero://open-pdf/library/items/YL3VT4CZ?page=73&annotation=HLA9882S))

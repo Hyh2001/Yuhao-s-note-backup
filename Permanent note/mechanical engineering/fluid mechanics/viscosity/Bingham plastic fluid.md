@@ -1,0 +1,2 @@
+Bingham plastic is a material that possesses a [[yield stress]] which must be exceeded before the fluid will flow and possesses constant viscosity. ([pdf](zotero://open-pdf/library/items/JIWTJCSV?page=15&annotation=AP9SN9TV))
+![[Pasted image 20230220164918.png]]

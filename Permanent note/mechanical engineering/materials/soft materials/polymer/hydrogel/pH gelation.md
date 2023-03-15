@@ -1,0 +1,2 @@
+It is the self-assembly of proteins when pH approaching to [[isoelectric point]] ([pdf](zotero://open-pdf/library/items/5XFXYA2G?page=4&annotation=XC78EHGF))
+pH can modulate the charge on proteins and make them to crosslink([pdf](zotero://open-pdf/library/items/LKFCBTUB?page=27&annotation=QAUE49RU))

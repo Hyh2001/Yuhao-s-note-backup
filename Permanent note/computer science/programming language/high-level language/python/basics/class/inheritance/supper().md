@@ -1,0 +1,1 @@
+The super() function  is a special function that allows you to call a method from **the parent clas**s. ([Matthes, p. 168](zotero://select/library/items/SSLQAI3E)) ([pdf](zotero://open-pdf/library/items/D9X5UPWD?page=206&annotation=XKS28BXI)) <!--SR:!2023-03-15,3,250-->

@@ -1,0 +1,1 @@
+Homogeneous material has the same physical and mechanical properties throughout its volume ([Hibbeler, 2011, p. 24](zotero://select/library/items/XW832UJH)) ([pdf](zotero://open-pdf/library/items/5Q89FKQF?page=43&annotation=JGURH284))

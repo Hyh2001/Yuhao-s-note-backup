@@ -1,0 +1,2 @@
+Inside solids molecules are at relatively fixed and compact positions in a solid ([Çengel 和 Boles, 2015, p. 140](zotero://select/library/items/FCMSUVW2)) ([pdf](zotero://open-pdf/library/items/DFP6L6PZ?page=140&annotation=YDNUECHF))
+Therefore, Solid has a strong [[intermolecular force]]. 

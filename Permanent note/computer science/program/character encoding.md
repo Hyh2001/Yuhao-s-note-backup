@@ -1,0 +1,2 @@
+计算机中每个字符在计算机内部都用一个**整数**来表示。比较通用的是 [[American Standard Code for Information Interchange]]. 
+([“LinuxC”, p. 45](zotero://select/library/items/I2QD5IEX)) ([pdf](zotero://open-pdf/library/items/4IHU78F5?page=45&annotation=2P86PKGY)) <!--SR:!2023-03-17,9,250-->

@@ -1,0 +1,1 @@
+It refers to materials that have high [[ultimate tensile strength]].  ([pdf](zotero://open-pdf/library/items/ZTFTC588?page=8&annotation=RG6A8LEW))

@@ -1,0 +1,2 @@
+It is the feature that when the [[python child class]] wants to override any [[python method]] from the parent class, it will use. 
+The way is to define a method in the child class with the same name as the method you want to override in the parent class. ([Matthes, p. 170](zotero://select/library/items/SSLQAI3E)) ([pdf](zotero://open-pdf/library/items/D9X5UPWD?page=208&annotation=KUS6KRZZ))

@@ -1,0 +1,1 @@
+Fixed based system includes all kinds of [[robot]] s machines that are rigidly bolted to the ground. ([“robot dynamics lecture note”, p. 1](zotero://select/library/items/TGHFK5DD)) ([pdf](zotero://open-pdf/library/items/XC5MH7YR?page=6&annotation=N6HJGQKM))

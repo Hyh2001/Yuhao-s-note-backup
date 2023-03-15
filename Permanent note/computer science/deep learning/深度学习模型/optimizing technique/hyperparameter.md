@@ -1,0 +1,1 @@
+It is the **tunable** parameters during training. ([pdf](zotero://open-pdf/library/items/I3IXYM7V?page=129&annotation=9U3QMN3K)) <!--SR:!2023-03-19,11,250-->

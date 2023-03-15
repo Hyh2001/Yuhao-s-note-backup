@@ -1,0 +1,2 @@
+This force acts perpendicular to the area. ([Hibbeler, 2011, p. 8](zotero://select/library/items/XW832UJH)) ([pdf](zotero://open-pdf/library/items/5Q89FKQF?page=27&annotation=FFJ9U4Z2))
+![[Pasted image 20230302174538.png]]

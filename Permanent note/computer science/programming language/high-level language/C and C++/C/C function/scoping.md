@@ -1,0 +1,1 @@
+Scoping is the restriction on data access. ==Only data inside same [[scope]] s can be accessed.== ([Driscoll, 2009, p. 29](zotero://select/library/items/DVHEC49B)) ([pdf](zotero://open-pdf/library/items/E33BQLVG?page=43&annotation=4TGNBKWN))

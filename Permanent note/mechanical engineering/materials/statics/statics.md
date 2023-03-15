@@ -1,0 +1,1 @@
+Statics is primarily used to determine the resultant loadings that act within a body. ([Hibbeler, 2011, p. 7](zotero://select/library/items/XW832UJH)) ([pdf](zotero://open-pdf/library/items/5Q89FKQF?page=26&annotation=8PVXJLJL))

@@ -1,0 +1,1 @@
+A thing is prismatic if all cross sections are the same throughout its length.  ([Hibbeler, 2011, p. 24](zotero://select/library/items/XW832UJH)) ([pdf](zotero://open-pdf/library/items/5Q89FKQF?page=43&annotation=YAG6H4FA))

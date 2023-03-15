@@ -1,0 +1,1 @@
+Apparent viscosity is the [[viscosity]] of a material at a specific shear rate ([pdf](zotero://open-pdf/library/items/ZQSHVHBK?page=2&annotation=2CEZ5JQU))

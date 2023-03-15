@@ -1,0 +1,5 @@
+---
+aliases: [counting number]
+---
+Natural number is first used by Greeks and Egyptions. They use them to count objects.   <span class="highlight" data-annotation="%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F9667514%2Fitems%2F2AVWIQEV%22%2C%22annotationKey%22%3A%2249HCGMA3%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%2218%22%2C%22position%22%3A%7B%22pageIndex%22%3A17%2C%22rects%22%3A%5B%5B464.235%2C512.491%2C569.48%2C521.398%5D%2C%5B42.52%2C500.536%2C480.472%2C509.602%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9667514%2Fitems%2F8EBIR37H%22%5D%2C%22locator%22%3A%2218%22%7D%7D" ztype="zhighlight"><a href="zotero://open-pdf/library/items/2AVWIQEV?page=18&#x26;annotation=49HCGMA3">“natural number””</a></span> <span class="citation" data-citation="%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9667514%2Fitems%2F8EBIR37H%22%5D%7D%5D%2C%22properties%22%3A%7B%7D%7D" ztype="zcitation">(<span class="citation-item"><a href="zotero://select/library/items/8EBIR37H">Grizzle</a></span>)</span>
+‍

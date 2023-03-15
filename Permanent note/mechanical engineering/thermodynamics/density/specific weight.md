@@ -1,0 +1,2 @@
+The weight of a unit volume of a substance is called specific weight ([Çengel 和 Boles, 2015, p. 41](zotero://select/library/items/FCMSUVW2)) ([pdf](zotero://open-pdf/library/items/DFP6L6PZ?page=41&annotation=U2K7BBQD))
+$\gamma_{s} = \rho g$ unit is $(N/m^3)$   

@@ -1,0 +1,1 @@
+It is a situation where part of one class can be written as **a separate class**. You can break your large class into smaller classes that work together. ([Matthes, p. 170](zotero://select/library/items/SSLQAI3E)) ([pdf](zotero://open-pdf/library/items/D9X5UPWD?page=208&annotation=GYGLFY7R)) <!--SR:!2023-03-15,3,250-->

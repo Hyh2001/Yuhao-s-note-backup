@@ -1,0 +1,1 @@
+If $x$ is an approximation to $x^{*}$ and :: $|E| = |x - x^{*}| \leq \epsilon$ then $\epsilon$ is called the error bound of the approximation. ([pdf](zotero://open-pdf/library/items/I5WT2TUR?page=45&annotation=BJKKSERR))

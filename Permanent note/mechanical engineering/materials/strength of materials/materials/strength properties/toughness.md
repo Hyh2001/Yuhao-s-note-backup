@@ -1,0 +1,1 @@
+It represents the energy a material can absorb before [[fracture]]. It can be calculated as the area under the [[stress-strain curve]]. ([pdf](zotero://open-pdf/library/items/ZTFTC588?page=8&annotation=7T2V7DY2))

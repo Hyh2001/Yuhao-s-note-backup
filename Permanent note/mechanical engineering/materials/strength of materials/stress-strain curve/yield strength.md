@@ -1,0 +1,1 @@
+It is the [[stress]] at which a material will begin to deform plastically. ([pdf](zotero://open-pdf/library/items/ZTFTC588?page=7&annotation=UL4Z4887))

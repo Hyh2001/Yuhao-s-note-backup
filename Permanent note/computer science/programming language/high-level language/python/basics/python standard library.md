@@ -1,0 +1,1 @@
+The Python standard library is a set of [[python module]]  included with every Python installation ([Matthes, p. 179](zotero://select/library/items/SSLQAI3E)) ([pdf](zotero://open-pdf/library/items/D9X5UPWD?page=217&annotation=P3Q9CMFW))

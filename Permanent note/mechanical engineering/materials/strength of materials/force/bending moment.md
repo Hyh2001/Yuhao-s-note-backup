@@ -1,0 +1,2 @@
+The bending moment is caused by the external loads that tend to bend the body about an axis lying within the plane of the area. ([Hibbeler, 2011, p. 8](zotero://select/library/items/XW832UJH)) ([pdf](zotero://open-pdf/library/items/5Q89FKQF?page=27&annotation=6TC4PLBF))
+![[Pasted image 20230302175025.png]]

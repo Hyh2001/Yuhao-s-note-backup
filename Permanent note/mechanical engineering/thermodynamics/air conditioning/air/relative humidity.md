@@ -1,0 +1,3 @@
+Relative humidity is the amount of moisture the air holds ($m_v$) relative to the maximum amount of moisture the air can hold at the same temperature ($m_g$). ([Çengel 和 Boles, 2015, p. 754](zotero://select/library/items/FCMSUVW2)) ([pdf](zotero://open-pdf/library/items/DFP6L6PZ?page=754&annotation=E4LA37K6)) 
+$\phi = \frac{m_{v}}{m_{g}}=\frac{P_vV/R_vT}{P_{g}V/R_vT}=\frac{P_v}{P_g}=\frac{\omega P}{(0.622+\omega)P_g}$ $P$ is the total pressure and $P_g$ is the saturated air pressure at same temperature.  ([Çengel 和 Boles, 2015, p. 755](zotero://select/library/items/FCMSUVW2)) ([pdf](zotero://open-pdf/library/items/DFP6L6PZ?page=755&annotation=FS3PG6SJ))  
+where $\omega$ is he [[specific humidity]] 

@@ -1,0 +1,1 @@
+The temperature at which a [[pure substance]] changes phase is called the saturation temperature. ([Çengel 和 Boles, 2015, p. 142](zotero://select/library/items/FCMSUVW2)) ([pdf](zotero://open-pdf/library/items/DFP6L6PZ?page=142&annotation=RU554FF4))

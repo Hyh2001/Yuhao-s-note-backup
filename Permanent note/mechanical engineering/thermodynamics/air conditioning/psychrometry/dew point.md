@@ -1,0 +1,1 @@
+The dew point of a gas-vapor [[mixture]] is the temperature at which the vapor is cooled to be saturated with water vapor ([pdf](zotero://open-pdf/library/items/X5QB2YK6?page=12&annotation=X5ZAPW9A))

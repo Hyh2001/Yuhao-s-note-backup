@@ -1,0 +1,1 @@
+Expected value is a situation that when sample number tends to infinity, mean of these samples tend to be equal to the expected value of their distribution.

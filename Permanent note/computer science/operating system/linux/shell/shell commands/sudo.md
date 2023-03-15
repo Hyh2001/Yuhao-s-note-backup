@@ -1,0 +1,1 @@
+This command lets you to do something like a **[[root user]]**.  <!--SR:!2023-03-20,8,250-->

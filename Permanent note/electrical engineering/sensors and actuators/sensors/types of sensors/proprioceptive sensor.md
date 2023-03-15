@@ -1,0 +1,1 @@
+Proprioceptive sensors measure values internal to the robot. ([Siegwart 和 Nourbakhsh, 2004, p. 104](zotero://select/library/items/BEY6X32A)) ([pdf](zotero://open-pdf/library/items/RYZVTCUY?page=104&annotation=I4VD6UD8))

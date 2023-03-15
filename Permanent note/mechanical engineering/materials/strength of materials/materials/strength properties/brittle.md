@@ -1,0 +1,1 @@
+It is a property of materials which break under small deformation. (small [[strain]]) ([pdf](zotero://open-pdf/library/items/ZTFTC588?page=8&annotation=VGL59UPL))

@@ -1,0 +1,1 @@
+Pytorch的计算图由**节点和边**组成，节点表示 **[[pytorch tensor]]或者[[pytorch function]]**，边表示**张量和Function之间的依赖**关系。

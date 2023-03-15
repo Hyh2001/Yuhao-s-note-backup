@@ -1,0 +1,6 @@
+Sensors that require an external excitation signal or a power signal. They emit energy into the environment, then measure the environmental reaction. ([Siegwart 和 Nourbakhsh, 2004, p. 105](zotero://select/library/items/BEY6X32A)) ([pdf](zotero://open-pdf/library/items/RYZVTCUY?page=105&annotation=HXTFGDF4))
+Because active sensors can manage more controlled interactions with the environment, they often achieve superior performance comparing with [[passive sensor]]. ([Siegwart 和 Nourbakhsh, 2004, p. 105](zotero://select/library/items/BEY6X32A)) ([pdf](zotero://open-pdf/library/items/RYZVTCUY?page=105&annotation=E6ZN9U6L))
+
+# disadvantages 
+1. the outbound energy may affect the very characteristics that the sensor is attempting to measure. ([Siegwart 和 Nourbakhsh, 2004, p. 105](zotero://select/library/items/BEY6X32A)) ([pdf](zotero://open-pdf/library/items/RYZVTCUY?page=105&annotation=GLI89SQP))
+2. an active sensor may suffer from interference of noises  ([Siegwart 和 Nourbakhsh, 2004, p. 105](zotero://select/library/items/BEY6X32A)) ([pdf](zotero://open-pdf/library/items/RYZVTCUY?page=105&annotation=WEQZSSCF))

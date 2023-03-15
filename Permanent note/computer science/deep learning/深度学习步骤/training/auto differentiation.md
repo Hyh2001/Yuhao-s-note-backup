@@ -1,0 +1,3 @@
+It is the [[differentiation]] made by computers automatically. Its working mechanism is as bellow： 
+
+As we pass data through each successive function, the framework builds a [[computational graph]] that tracks how each value depends on others. To calculate derivatives, automatic differentiation works backwards through this graph applying the chain rule The computational algorithm for applying the [[chain rule]] in this fashion is called [[backpropagation]]. ([pdf](zotero://open-pdf/library/items/I3IXYM7V?page=102&annotation=BAGGZBQ4))

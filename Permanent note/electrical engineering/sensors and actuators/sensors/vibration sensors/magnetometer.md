@@ -1,0 +1,1 @@
+A magnetometer measures the magnetic field surrounding it, and may be sufficiently sensitive to determine its orientation relative to the Earth’s magnetic field. ([Charles 等, 2016, p. 63](zotero://select/library/items/NI73QRSC)) ([pdf](zotero://open-pdf/library/items/PK7VQQLG?page=93&annotation=WWT3J6WA))

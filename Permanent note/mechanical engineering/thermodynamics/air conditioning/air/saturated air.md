@@ -1,0 +1,2 @@
+Air can hold no more [[water vapor]] and any water vapor added will make the air condense. ([Çengel 和 Boles, 2015, p. 754](zotero://select/library/items/FCMSUVW2)) ([pdf](zotero://open-pdf/library/items/DFP6L6PZ?page=754&annotation=422I3D56))
+The amount of moisture air can hold depends on its temperature ([Çengel 和 Boles, 2015, p. 755](zotero://select/library/items/FCMSUVW2)) ([pdf](zotero://open-pdf/library/items/DFP6L6PZ?page=755&annotation=K2A8EY9T))

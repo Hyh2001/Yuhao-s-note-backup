@@ -1,0 +1,1 @@
+The interval of convergence of a [[power series]]  is the interval that consists of all values of $x$ for which the series is [[convergent]]. ([Stewart, 2016, p. 749](zotero://select/library/items/BIS3IDTH)) ([pdf](zotero://open-pdf/library/items/BQP5L6YK?page=781&annotation=5HPI6M9C))

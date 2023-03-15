@@ -1,0 +1,4 @@
+Body form of [[product of exponential]] means that we express the joint axes as screw axes $B_i$ in the [[body frame]] . ([Lynch 和 Park, 2017, p. 167](zotero://select/library/items/CK6BYIEW)) ([pdf](zotero://open-pdf/library/items/97TQKNC2?page=167&annotation=XSKWYXBC))
+By using the property 2 of [[matrix exponential]], we can rewrite the product of exponential function: 
+$T (\theta) = e^{[S_{1}]\theta_{1}}\ldots e^{[S_{n}]\theta_{n}}M$  by letting $e^{[S_{n}]\theta_{n}}M = Me^{M^{-1}[S_n]\theta_{n}M}$ and repeat the process, we will finally put $M$ to the left hand sight.  ([Lynch 和 Park, 2017, p. 166](zotero://select/library/items/CK6BYIEW)) ([pdf](zotero://open-pdf/library/items/97TQKNC2?page=166&annotation=B2Y5IREU))
+$T (\theta) = Me^{[B_{1}]\theta_{1}}\ldots e^{[B_{n-1}]\theta_{n-1}}e^{[B_{n}]\theta_{n}}$ ([Lynch 和 Park, 2017, p. 167](zotero://select/library/items/CK6BYIEW)) ([pdf](zotero://open-pdf/library/items/97TQKNC2?page=167&annotation=CQXQIGFS))  

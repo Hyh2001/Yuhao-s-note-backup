@@ -1,0 +1,1 @@
+It is a phenomenon where increases in [[stress]] with increasing [[strain]] ([pdf](zotero://open-pdf/library/items/ZTFTC588?page=10&annotation=XJ8PGNMH))

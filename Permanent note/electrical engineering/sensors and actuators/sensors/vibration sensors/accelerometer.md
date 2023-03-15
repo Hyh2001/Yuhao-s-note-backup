@@ -1,0 +1,1 @@
+An accelerometer measures [[acceleration]] and will also measure its gravity. ([Charles 等, 2016, p. 63](zotero://select/library/items/NI73QRSC)) ([pdf](zotero://open-pdf/library/items/PK7VQQLG?page=93&annotation=4X5NH8GK)) ([Charles 等, 2016, p. 69](zotero://select/library/items/NI73QRSC)) ([pdf](zotero://open-pdf/library/items/PK7VQQLG?page=99&annotation=LQ9AEXPJ))

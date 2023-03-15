@@ -1,0 +1,1 @@
+*Spatial velocity* ([[twist]]) is a point in $\mathbb{R}^6$ consists of $3$ linear velocities and $3$ angular velocities.

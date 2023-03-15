@@ -1,0 +1,3 @@
+If the surface loading is applied along a narrow strip of area, the loading can be idealized as a linear distributed load which is measured as having an intensity of force along the strip. ([Hibbeler, 2011, p. 4](zotero://select/library/items/XW832UJH)) ([pdf](zotero://open-pdf/library/items/5Q89FKQF?page=23&annotation=DZFHLE6M))
+![[Pasted image 20230221195714.png]]
+The resultant force $F_R$ is equivalent to the area under the loading curve and it acts through the centroid $C$ which is the [[geometric center]] of the area. 

@@ -1,0 +1,3 @@
+# method to find integrals
+
+‍

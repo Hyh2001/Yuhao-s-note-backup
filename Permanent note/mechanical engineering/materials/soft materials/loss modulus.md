@@ -1,0 +1,1 @@
+It is a measure of a material’s ability to dissipate energy ([pdf](zotero://open-pdf/library/items/ZQSHVHBK?page=4&annotation=C77N687Y))

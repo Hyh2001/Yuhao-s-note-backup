@@ -1,0 +1,5 @@
+We assume that the bound of the angular speed is like a circle and after mapping by the [[Jacobian matrix]], the circle becomes a **ellipse** and we call this ellipse the manipulability ellipsoid. ([Lynch 和 Park, 2017, p. 191](zotero://select/library/items/CK6BYIEW)) ([pdf](zotero://open-pdf/library/items/97TQKNC2?page=191&annotation=7UZUUNWU))
+# quantify distance to singularity 
+When [[singularity]] occurs, the ellipse collapses to **a line segment which denotes that the ability of the tip to move on one direction is lost.**  ([Lynch 和 Park, 2017, p. 191](zotero://select/library/items/CK6BYIEW)) ([pdf](zotero://open-pdf/library/items/97TQKNC2?page=191&annotation=X5LGQ3XL))
+
+Therefore, we can use the ellipsoid to quantify how close a given posture is to a singularity. The method is to compare the lengths of the major ($l_{max}$) and minor ($l_{min}$) principal semi-axes of the ellipsoid. If **$\frac{l_{max}}{l_{min}}\to 1$ then we say that the tip can move in arbitrary directions more easily.** ([Lynch 和 Park, 2017, p. 192](zotero://select/library/items/CK6BYIEW)) ([pdf](zotero://open-pdf/library/items/97TQKNC2?page=192&annotation=RAAV3IMC))

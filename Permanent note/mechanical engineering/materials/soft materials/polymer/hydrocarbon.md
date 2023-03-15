@@ -1,0 +1,1 @@
+Hydrocarbons are **bonds between C and H atoms** and they are **non-polar** because of the close electronegativities of C and H atoms.  ([“EMEN 3032 Special topics in Electromechanical Engineering III”, p. 13](zotero://select/library/items/3UBF9LWL)) ([pdf](zotero://open-pdf/library/items/IJLPFJ7H?page=13&annotation=G2GH3CVU))

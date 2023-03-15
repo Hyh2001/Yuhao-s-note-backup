@@ -1,0 +1,2 @@
+It states that during an interaction, energy can change from one form to another but **the total amount of energy remains constant**. ([Çengel 和 Boles, 2015, p. 29](zotero://select/library/items/FCMSUVW2)) ([pdf](zotero://open-pdf/library/items/DFP6L6PZ?page=29&annotation=YGEDVXX9))
+In short, energy can not be created or destroyed. 

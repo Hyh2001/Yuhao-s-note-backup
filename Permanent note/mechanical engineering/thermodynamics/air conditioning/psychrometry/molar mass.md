@@ -1,0 +1,3 @@
+$M_{m}=\frac{m_{m}}{N_{m}}=\frac{m_{i}}{N_{m}}=\frac{N_{i}M_{i}}{N_{m}}=\sum_{i=1}^{k}y_{i}M_{i}$ where $y_{i}$ is the [[mole fraction]]. ([Çengel 和 Boles, 2015, p. 715](zotero://select/library/items/FCMSUVW2)) ([pdf](zotero://open-pdf/library/items/DFP6L6PZ?page=715&annotation=BL6CQJF8))  
+We can also expand the mole part: 
+$M_{m}=\frac{m_{m}}{N_{m}}=\frac{m_{m}}{\sum m_{i}/M_i}=\frac{1}{\sum m_i/(m_{m}M_{i})}=\frac{1}{\sum_{i=1}^{k}\frac{mf_{i}}{M_{i}}}$  

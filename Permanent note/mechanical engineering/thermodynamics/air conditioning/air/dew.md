@@ -1,0 +1,2 @@
+The excess moisture in the [[atmospheric air]] simply condensed on the cool surfaces,. ([Çengel 和 Boles, 2015, p. 756](zotero://select/library/items/FCMSUVW2)) ([pdf](zotero://open-pdf/library/items/DFP6L6PZ?page=756&annotation=94N4ZG9M))
+[[dew-point temperature]] 

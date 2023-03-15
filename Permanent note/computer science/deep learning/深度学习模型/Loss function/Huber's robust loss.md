@@ -1,0 +1,1 @@
+It is the combination of :: [[L1 loss]] and [[L2 loss]]  <!--SR:!2023-03-18,10,250-->

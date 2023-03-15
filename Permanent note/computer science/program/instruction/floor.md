@@ -1,0 +1,1 @@
+Floor is about [[rounding]], it is **rounding down**.  <!--SR:!2023-03-16,4,270-->

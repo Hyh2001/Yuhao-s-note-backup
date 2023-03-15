@@ -1,0 +1,2 @@
+It is defined as :: time-dependent [[stress]] divided by constant [[strain]] applied to the material. 
+$E_{R}=\frac{\tau(t)}{\epsilon_{0}}$  ([pdf](zotero://open-pdf/library/items/ZQSHVHBK?page=13&annotation=5BRKM6JF))

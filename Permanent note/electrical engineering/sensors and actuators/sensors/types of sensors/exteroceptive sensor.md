@@ -1,0 +1,1 @@
+Exteroceptive sensors acquire information from the robot’s environment They extract meaningful environmental features. ([Siegwart 和 Nourbakhsh, 2004, p. 104](zotero://select/library/items/BEY6X32A)) ([pdf](zotero://open-pdf/library/items/RYZVTCUY?page=104&annotation=INM3HSEZ)) 

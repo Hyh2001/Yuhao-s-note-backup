@@ -1,0 +1,4 @@
+#review 
+Let $f$ be a [[continuity|continuous]] [[function]] on $[a,b]$. If $f (a) f (b) \leq 0$, then $\exists \xi \in [a,b]$ such that $f (\xi) = 0$. ([pdf](zotero://open-pdf/library/items/X3UESHXG?page=4&annotation=CPL7WZR4))
+## proof 
+If $f (a) = 0$ or $f (b) = 0$ then $\xi =a$ or $\xi = b$. Suppose they are not zero, then with $f (a) f (b) < 0$, $0$ will belong to the open interval whose endpoints are $f(a)$ and $f(b)$. By the [[intermediate value theorem]], $\exists \xi \in (a,b)$ such that $f (\xi) = 0$.  $\xi$ is not unique and there may be more than one root. ([pdf](zotero://open-pdf/library/items/X3UESHXG?page=4&annotation=CPL7WZR4))

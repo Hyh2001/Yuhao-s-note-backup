@@ -1,0 +1,1 @@
+It is the study of the relation existing between the forces acting on a body, the mass of the body, and the motion of the body. ([“Vector mechanics for engineers. Statics and dynamics”, 2013, p. 602](zotero://select/library/items/88QX3VHX)) ([pdf](zotero://open-pdf/library/items/X8RTBG22?page=637&annotation=8MF9SZ76))

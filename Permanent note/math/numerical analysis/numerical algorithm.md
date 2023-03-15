@@ -1,0 +1,2 @@
+#review 
+Numerical algorithms are **complete, unambiguous** procedure for solving a problem in a **finite** number of steps.  ([pdf](zotero://open-pdf/library/items/I5WT2TUR?page=11&annotation=HMP7XUKZ)) <!--SR:!2023-03-07,1,230-->

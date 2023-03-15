@@ -1,0 +1,1 @@
+It is the abilities for materials to resist [[indentation]]. ([pdf](zotero://open-pdf/library/items/ZTFTC588?page=8&annotation=H5KF7VUT))

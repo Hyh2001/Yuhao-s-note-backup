@@ -1,0 +1,2 @@
+The reciprocal of [[density]]  is the specific volume v,” ([Çengel 和 Boles, 2015, p. 40](zotero://select/library/items/FCMSUVW2)) ([pdf](zotero://open-pdf/library/items/DFP6L6PZ?page=40&annotation=25MJPJD8))
+$v = \frac{V}{m} = \frac{1}{\rho}$ 

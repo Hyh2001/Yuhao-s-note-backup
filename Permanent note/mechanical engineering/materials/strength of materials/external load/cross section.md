@@ -1,0 +1,1 @@
+We can take the section perpendicular to the longitudinal axis of the member and this section is called the cross section. ([Hibbeler, 2011, p. 7](zotero://select/library/items/XW832UJH)) ([pdf](zotero://open-pdf/library/items/5Q89FKQF?page=26&annotation=DQXQR8XH))

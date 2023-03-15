@@ -1,0 +1,1 @@
+Floating based system encompasses robots that have a moving base. ([“robot dynamics lecture note”, p. 1](zotero://select/library/items/TGHFK5DD)) ([pdf](zotero://open-pdf/library/items/XC5MH7YR?page=6&annotation=93VRWUM2))
